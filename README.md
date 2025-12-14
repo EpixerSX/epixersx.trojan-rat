@@ -1,4 +1,4 @@
-# RAT / Trojan Remote Access Token
+# RAT / Remote Access Trojan
 #### Remote Access carried out from Telegram Bot
 ##### [Download](https://github.com/EpixerSX/epixersx.trojan-rat/releases)
 
